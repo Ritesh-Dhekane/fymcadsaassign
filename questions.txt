@@ -1,0 +1,20 @@
+1.  Write a program to implement stack using Array with PUSH, POP operations  
+2.  Write a Program to Implement Stack using Linked List 
+3.  Write a Program to Implement Linear Queue using linked list.  
+4.  Write a Program to Implement Linear Queue using Array.
+5.  Write a Program to Implement Priority Queue     
+6.  Write a Program to Implement Circular Queue     
+7.  Write a Program to reverse a string using stack.     
+8.  Write a Program to check for balanced parentheses by using Stacks  
+9.  Write a program to convert infix expression into postfix expression.  
+10.  Write a program to create a binary search tree, insert, and delete an element from binary search tree.  
+11.  Write a program to implement binary search tree traversal operations- In order, Preorder and Post order  
+12.  Write a program Count the total number of nodes in a binary tree.  
+13.  Write a program to Find the height (or depth) of a binary tree  
+14.  Write a program Construct an Expression Tree from postfix expression  
+15.  Write a program to implement Graph using adjacency list  
+16.  Write a program to perform following graph traversal operations:  a. DFS graph traversalb. BFS graph traversal
+17.  Write a program to implement Graph using adjacency matrix
+18.  Given a Binary Search Tree and an integer ‘K’. Write a program to find and return the ‘K-th’ smallest and ‘K-th’ largest element in the given Binary Search Tree. 
+19.  Given an undirected graph with V vertices and E edges, Write a program to check whether it contains any cycle or not.
+20.  Write a program to Find in-degree and out-degree of all vertices
