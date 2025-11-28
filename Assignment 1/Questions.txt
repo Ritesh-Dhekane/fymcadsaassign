@@ -1,0 +1,38 @@
+1. Write a python code to insert element in array
+2. Write a Program to update/modify an element at a given index.
+3. Write a python code to search element in array(linear search)
+4. Write a program to count elements in array
+5. Write a program to delete element from array
+6. Write a python code to find the sum of all elements.
+7. Write a python code to count frequency of each element in the array.
+8. Write a python code to find the average / mean of array elements.
+9. Write a python code to merge two arrays into one.
+10. Write a Program to find common elements from 2 arrays.
+11. Write a python code to find duplicate elements in an array
+12. Write a python code to find the maximum and minimum element.
+13. Write a python code to generate Fibonacci series up to 5 number using array elements.
+14. Write a program to reverse the array
+15. Write a python code to create and display a 2D array (matrix).
+16. Write a python code for matrix addition.
+17. Write a python code for matrix subtraction.
+18. Write a python code for matrix multiplication.
+19. Write a python code to find the transpose of a matrix.
+20. Write a python code to find the sum of diagonal elements.
+21. Write a program to insert elements at the last position of the linked list. 
+22. Write a program to print sum of alternate node elements in doubly linked list.
+23. Write a program to reverse the singly linked list elements.
+24. Write a program to delete node from beginning in singly linked list.
+25. Write a program to reverse the nodes of a linked list.
+26. Write a program to delete element from linked list whose sum is equal to zero (consider
+negative numbers also in LL).
+27. Write a program to create doubly link list and return the count of elements.
+28. Write a program to create a doubly linked list and search a value in it and return its
+position.
+29. Write a program to Remove duplicate element from given sorted Linked List
+SLL: 3->3->4->5
+30. Write a program for Insertion and Deletion in Singly Linked List
+31. Write a program to count number of nodes in singly linked list.
+32. Write a program to Merge Two Sorted Linked Lists
+33. Write a program to Insert at Specific Position
+34. Write a program to Delete from Beginning and from end in DLL
+35. Write a program to Merge Two Sorted Doubly Linked Lists
